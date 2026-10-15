@@ -1,0 +1,28 @@
+*{
+	font-family:Arial;
+}
+
+#title {
+    color: pink;
+    text-align: center;
+}
+
+
+#p1{
+     color:blue;
+    font-size:36;
+	line-height:2;
+} 
+ 
+.p2{
+     color:blue;
+    font-size:38;
+   line-height:2;
+}
+   
+
+.p3{
+	 color:blue;
+	 font-size:40;
+    line-height:3;
+}
